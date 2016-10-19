@@ -1,0 +1,9 @@
+/testoutput
+/target
+/rawdata
+/dbinput
+.classpath
+.DS_Store
+.project
+.settings
+testETLCmd.properties

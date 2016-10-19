@@ -1,0 +1,13 @@
+{
+  "attrNameMap" : {
+    "TimeTrigger" : [ "timestamp" ]
+  },
+  "attrTypeMap" : {
+    "TimeTrigger" : [ {
+      "type" : "TIMESTAMP",
+      "size" : 0,
+      "precision" : 0,
+      "scale" : 0
+    } ]
+  }
+}
